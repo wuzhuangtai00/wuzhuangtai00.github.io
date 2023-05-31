@@ -6,9 +6,17 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  
+I am a first-year Ph.D. student in Computer Science at <a href="https://www.yale.edu/">Yale University</a>, where I am privileged to be advised by Prof. <a href="http://www.cs.yale.edu/homes/cai/">Yang Cai</a>. I have a broad interest in theoretical computer science, with a particular focus on algorithmic game theory.
+
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+
+I received my B.Sc., Summa Cum Laude in Computer Science from Turing Class, <a href="https://cfcs.pku.edu.cn/english/">CFCS, Peking University</a>. Throughout my undergraduate studies, it was my great fortune to work with and receive guidance from Prof. <a href="http://zhihaotang.com/">Zhihao Tang</a>, Prof. <a href="https://www.fuhuthu.com/">Hu Fu</a>, and Prof. <a href="https://cfcs.pku.edu.cn/yuqkong/">Yuqing Kong</a>.
+
 </p>
+
+<!-- <p> -->
+  <!-- You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>. -->
+<!-- </p> -->
