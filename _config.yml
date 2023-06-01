@@ -3,16 +3,16 @@
 
 title: Jinzhao Wu's Home Page
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+  Jinzhao Wu' Home Page.
+# baseurl: "/bay" # the subpath of the site
+url: "https://jinzhaowu.com" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
 header:
   pages:
     - name: Home
-      slug: /
+      slug: index
     - name: Research
     - name: Blog
 
