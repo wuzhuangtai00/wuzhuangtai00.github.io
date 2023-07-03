@@ -12,7 +12,7 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
 
 <p>[<a href="https://scholar.google.com/citations?user=xuKGK8IAAAAJ">Google Scholar</a>]</p>
 
-<!-- 
+
 <table>
   <tr>
     <td><strong> Simultaneous Auctions are Approximately Revenue-Optimal for Subadditive Bidders</strong></td>
@@ -21,9 +21,9 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
     <td>&nbsp; Yang Cai, Ziyun Chen, Jinzhao Wu</td>
   </tr>
   <tr>
-  <td>&nbsp; Working Paper</td>
+  <td>&nbsp; FOCS 2023 (to appear) </td>
   </tr>
-</table> -->
+</table>
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
     <td>&nbsp; Yang Cai, Jinzhao Wu</td>
   </tr>
   <tr>
-  <td>&nbsp; STOC 2023 (to appear)[<a href="https://arxiv.org/pdf/2301.05167.pdf">arxiv</a>]</td>
+  <td>&nbsp; STOC 2023 [<a href="https://www.youtube.com/watch?v=cY6FlraPOHw">video</a>] [<a href="https://dl.acm.org/doi/pdf/10.1145/3564246.3585171">conf version</a>] [<a href="https://arxiv.org/pdf/2301.05167.pdf">arxiv</a>] </td>
   </tr>
 </table>
 

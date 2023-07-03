@@ -13,7 +13,7 @@ I am a first-year Ph.D. student in Computer Science at <a href="https://www.yale
 
 <p>
 
-I received my B.Sc., Summa Cum Laude in Computer Science from Turing Class, <a href="https://cfcs.pku.edu.cn/english/">CFCS, Peking University</a>. Throughout my undergraduate studies, it was my great fortune to work with and receive guidance from Prof. <a href="http://zhihaotang.com/">Zhihao Tang</a>, Prof. <a href="https://www.fuhuthu.com/">Hu Fu</a>, and Prof. <a href="https://cfcs.pku.edu.cn/yuqkong/">Yuqing Kong</a>.
+I received my B.Sc. in Computer Science from Turing Class, <a href="https://cfcs.pku.edu.cn/english/">CFCS, Peking University</a>. Throughout my undergraduate studies, it was my great fortune to work with and receive guidance from Prof. <a href="http://zhihaotang.com/">Zhihao Tang</a>, Prof. <a href="https://www.fuhuthu.com/">Hu Fu</a>, and Prof. <a href="https://cfcs.pku.edu.cn/yuqkong/">Yuqing Kong</a>.
 
 </p>
 
