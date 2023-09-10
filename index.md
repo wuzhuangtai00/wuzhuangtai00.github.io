@@ -7,7 +7,7 @@ profile_picture:
 
 <p>
   
-I am a first-year Ph.D. student in Computer Science at <a href="https://www.yale.edu/">Yale University</a>, where I am privileged to be advised by Prof. <a href="http://www.cs.yale.edu/homes/cai/">Yang Cai</a>. I have a broad interest in theoretical computer science, with a particular focus on algorithmic game theory.
+I am a <del>first</del> second-year Ph.D. student in Computer Science at <a href="https://www.yale.edu/">Yale University</a>, where I am privileged to be advised by Prof. <a href="http://www.cs.yale.edu/homes/cai/">Yang Cai</a>. I have a broad interest in theoretical computer science, with a particular focus on algorithmic game theory.
 
 </p>
 
