@@ -8,7 +8,7 @@
 $base-url: "{{ site.baseurl }}";
 
 $base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
-$base-font-size: 20px;
+$base-font-size: 18px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.8;
 
@@ -22,8 +22,11 @@ $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: darken($grey-color, 25%);
 
+// $content-width: 70%;
+
+
 $on-mobile: 500px;
-$on-laptop: 1600px;
+$on-laptop: 2560px;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
