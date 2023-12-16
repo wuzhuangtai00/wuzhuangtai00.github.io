@@ -22,11 +22,11 @@ $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: darken($grey-color, 25%);
 
-$content-width: 70%;
+// $content-width: 70%;
 
 
 $on-mobile: 500px;
-$on-laptop: 8000px;
+$on-laptop: 900px;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
