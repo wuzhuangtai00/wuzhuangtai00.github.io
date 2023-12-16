@@ -7,7 +7,7 @@ slug:
 During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I have a growing interest in <strong>computational problems</strong> arising from the field of economics.
 </p>
 
-## Publications
+### Publications
 (Unless stated otherwise, authors are sorted in alphabetical order.)
 
 <p>[<a href="https://scholar.google.com/citations?user=xuKGK8IAAAAJ">Google Scholar</a>]</p>
@@ -15,19 +15,31 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
 
 <table>
   <tr>
-    <td><strong> Simultaneous Auctions are Approximately Revenue-Optimal for Subadditive Bidders</strong></td>
+    <td><strong style="font-weight: 800; color: #284B7E;">  Algorithmic Information Disclosure in Optimal Auctions</strong> </td>
   </tr>
   <tr>
-    <td>&nbsp; Yang Cai, Ziyun Chen, Jinzhao Wu</td>
+    <td>&nbsp; Yang Cai, Yingkai Li, Jinzhao Wu</td>
   </tr>
   <tr>
-  <td>&nbsp; FOCS 2023 (to appear) </td>
+  <td>&nbsp; Working paper </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><strong> On the Optimal Fixed-Price Mechanism in Bilateral Trade</strong></td>
+    <td><strong style="font-weight: 800; color: #284B7E;"> Simultaneous Auctions are Approximately Revenue-Optimal for Subadditive Bidders</strong></td>
+  </tr>
+  <tr>
+    <td>&nbsp; Yang Cai, Ziyun Chen, Jinzhao Wu</td>
+  </tr>
+  <tr>
+  <td>&nbsp; FOCS 2023 [<a href="https://arxiv.org/pdf/2310.07977.pdf">arxiv</a>] [video incoming] </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong style="font-weight: 800; color: #284B7E;"> On the Optimal Fixed-Price Mechanism in Bilateral Trade</strong></td>
   </tr>
   <tr>
     <td>&nbsp; Yang Cai, Jinzhao Wu</td>
@@ -39,7 +51,7 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
 
 <table>
   <tr>
-    <td><strong>(Fractional) online stochastic matching via fine-grained offline statistics</strong></td>
+    <td><strong style="font-weight: 800; color: #284B7E;">(Fractional) Online Stochastic Matching via Fine-grained Offline Statistics</strong></td>
   </tr>
   <tr>
     <td>&nbsp; Zhihao Gavin Tang, Jinzhao Wu, Hongxun Wu</td>
@@ -52,7 +64,7 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
 
 <table>
   <tr>
-    <td><strong>Eliciting Thinking Hierarchy without a Prior</strong></td>
+    <td><strong style="font-weight: 800; color: #284B7E;">Eliciting Thinking Hierarchy without a Prior</strong></td>
   </tr>
   <tr>
     <td>&nbsp; Yuqing Kong, Yunqi Li, Yubo Zhang, Zhihuan Huang, Jinzhao Wu (by contribution)</td>
@@ -64,7 +76,7 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
 
 <table>
   <tr>
-    <td><strong>Oblivious Online Contention Resolution Schemes</strong></td>
+    <td><strong style="font-weight: 800; color: #284B7E;">Oblivious Online Contention Resolution Schemes</strong></td>
   </tr>
   <tr>
     <td>&nbsp; Hu Fu, Pinyan Lu, Zhihao Gavin Tang, Abner Turkieltaub, Hongxun Wu, Jinzhao Wu, Qianfan Zhang</td>
@@ -76,7 +88,7 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
 
 <table>
   <tr>
-    <td><strong>Random order vertex arrival contention resolution schemes for matching, with applications</strong></td>
+    <td><strong style="font-weight: 800; color: #284B7E;">Random order vertex arrival contention resolution schemes for matching, with applications</strong></td>
   </tr>
   <tr>
     <td>&nbsp; Hu Fu, Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu, Qianfan Zhang</td>
