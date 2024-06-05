@@ -1,12 +1,122 @@
----
-layout: post
-title:  "Post example"
-date:   2019-10-26 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."
-og_image: /assets/img/content/post-example/Banner.jpg
----
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+
+  
+  
+
+  
+
+  <!-- Primary Meta Tags -->
+  <title>Jinzhao Wu's Home Page | Post example</title>
+  <meta name="title" content="Jinzhao Wu's Home Page | Post example"/>
+  <meta name="description" content="A look at an example post using Bay Jekyll theme."/>
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:site_name" content="Jinzhao Wu's Home Page | Post example"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:url" content="https://jinzhaowu.com/2019-10-26-example-of-blog-post.test"/>
+  <meta property="og:title" content="Jinzhao Wu's Home Page | Post example"/>
+  <meta property="og:description" content="A look at an example post using Bay Jekyll theme."/>
+  <meta property="og:image" content="https://jinzhaowu.com"/>
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image"/>
+  <meta property="twitter:url" content="https://jinzhaowu.com/2019-10-26-example-of-blog-post.test"/>
+  <meta property="twitter:title" content="Jinzhao Wu's Home Page | Post example"/>
+  <meta property="twitter:description" content="A look at an example post using Bay Jekyll theme."/>
+  <meta property="twitter:image" content="https://jinzhaowu.com"/>
+  
+
+  <link rel="stylesheet" href="https://jinzhaowu.com/assets/css/main.css"/>
+  <link rel="canonical" href="https://jinzhaowu.com/2019-10-26-example-of-blog-post.test"/>
+  <link rel="shortcut icon" href="https://jinzhaowu.com/favicon.ico" type="image/x-icon"/>
+
+  <!-- Google Analytics -->
+  <script>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', "UA-121636368-3", "auto");
+    ga('send', "pageview");
+  </script>
+  <script async src="https://www.google-analytics.com/analytics.js"></script>
+
+
+</head>
+
+
+  <body>
+    <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="https://jinzhaowu.com/">
+      <img src="https://jinzhaowu.com/assets/img/title.png" alt="Jinzhao Wu's Home Page" />
+    </a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon"></a>
+
+      <div class="menu">
+        
+          
+          
+          <a class="page-link" href="https://jinzhaowu.com/index">
+            Home
+          </a>
+        
+          
+          
+          <a class="page-link" href="https://jinzhaowu.com/research">
+            Research
+          </a>
+        
+          
+          
+          <a class="page-link" href="https://jinzhaowu.com/blog">
+            Blog
+          </a>
+        
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+          <header class="post-header">
+
+            
+
+            <h1 class="post-title">
+            
+              Post example
+            
+            </h1>
+
+            
+            <p class="post-meta"><span class="post-date">October 26, 2019
+            </span></p>
+          </header>
+
+          <article class="post-content">
+            <img src="https://jinzhaowu.com/assets/img/content/post-example/Banner.jpg" alt="bay" class="post-pic"/>
 <br />
 <br />
 
@@ -53,3 +163,70 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ##### FOOTNOTES
 
 [^1]: This is a note!
+
+          </article>
+
+          
+
+      </div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <h4>CONTACT</h4>
+
+        <div class="social-links">
+          
+            <div class="social-link contact-links">
+
+              
+              <img
+                src="https://jinzhaowu.com/assets/img/icons/email.png"
+                alt="email"
+              />
+              <a href="mailto:jinzhao.wu@yale.edu" id="email-link">
+                
+                  jinzhao.wu@yale.edu
+                
+              </a>
+            </div>
+
+          
+        </div>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <h4>FOLLOW</h4>
+
+        <div class="social-links follow-links">
+          
+        </div>
+      </div>
+
+      
+        <div class="footer-col footer-col-3 powered-by">
+          <p>
+            powered by <a href="https://github.com/eliottvincent/bay">Bay</a> | 2023
+          </p>
+        </div>
+      
+    </div>
+  </div>
+</footer>
+
+
+  
+
+
+
+
+
+
+    <script type="text/javascript" src="https://jinzhaowu.com/assets/js/vendor/cash-4.1.5.min.js"></script>
+<script type="text/javascript" src="https://jinzhaowu.com/assets/js/site.js"></script>
+
+  </body>
+</html>
