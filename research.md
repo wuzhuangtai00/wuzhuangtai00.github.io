@@ -15,13 +15,25 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
 
 <table>
   <tr>
+    <td><strong style="font-weight: 800; color: #284B7E;">  Sample-Based Matroid Prophet Inequalities </strong> </td>
+  </tr>
+  <tr>
+    <td>&nbsp; Hu Fu, Pinyan Lu, Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu, Qianfan Zhang</td>
+  </tr>
+  <tr>
+  <td>&nbsp; EC 2024  [<a href="https://arxiv.org/pdf/2406.12799">arxiv</a>] </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><strong style="font-weight: 800; color: #284B7E;">  Algorithmic Information Disclosure in Optimal Auctions</strong> </td>
   </tr>
   <tr>
     <td>&nbsp; Yang Cai, Yingkai Li, Jinzhao Wu</td>
   </tr>
   <tr>
-  <td>&nbsp; Working paper </td>
+  <td>&nbsp; EC 2024  [<a href="https://arxiv.org/pdf/2403.08145">arxiv</a>] </td>
   </tr>
 </table>
 
