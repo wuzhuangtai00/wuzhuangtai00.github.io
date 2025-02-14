@@ -12,6 +12,30 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
 
 <p>[<a href="https://scholar.google.com/citations?user=xuKGK8IAAAAJ">Google Scholar</a>]</p>
 
+<table>
+  <tr>
+    <td><strong style="font-weight: 800; color: #284B7E;">  Approximately Efficient Bilateral Trade with Samples </strong> </td>
+  </tr>
+  <tr>
+    <td>&nbsp; Yuan Deng, Jieming Mao, Balasubramanian Sivan, Kangning Wang, Jinzhao Wu</td>
+  </tr>
+  <tr>
+  <td>&nbsp; Manuscript </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong style="font-weight: 800; color: #284B7E;">  Information Disclosure Makes Simple Mechanisms Competitive </strong> </td>
+  </tr>
+  <tr>
+    <td>&nbsp; Yang Cai, Yingkai Li, Jinzhao Wu</td>
+  </tr>
+  <tr>
+  <td>&nbsp; Manuscript </td>
+  </tr>
+</table>
+
 
 <table>
   <tr>
