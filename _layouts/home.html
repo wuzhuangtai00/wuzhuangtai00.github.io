@@ -8,11 +8,16 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
-          <img
-            src="{{ page.profile_picture.src | absolute_url }}"
-            alt="{{ page.profile_picture.alt }}"
-            class="profile-pic"
-          />
+
+          <!-- wrap both img + credit in one floated div -->
+          <div class="profile-figure">
+            <img
+              src="{{ page.profile_picture.src | absolute_url }}"
+              alt="{{ page.profile_picture.alt }}"
+              class="profile-pic"
+            />
+            <p class="photo-credit"> Photo By Yizhao Zhang</p>
+          </div>
 
           {{ content }}
         </div>
