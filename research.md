@@ -3,14 +3,44 @@ layout: research
 title: Research
 slug: 
 ---
+
 <p>
-During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I have a growing interest in <strong>computational problems</strong> arising from the field of economics.
+My research lies at the intersection of <strong>theoretical computer science</strong> and <strong>microeconomic theory</strong>. I am interested in exploring computational problems arising from the field of economics, as well as interpreting economic insights through the lens of theoretical computer science. Currently, I am more focused on the following areas:
 </p>
+<ul>
+  <li><strong>Information Design</strong></li>
+  <li><strong>Bilateral Trade</strong></li>
+</ul>
 
 ### Publications
 (Unless stated otherwise, authors are sorted in alphabetical order.)
 
 <p>[<a href="https://scholar.google.com/citations?user=xuKGK8IAAAAJ">Google Scholar</a>]</p>
+
+
+<table>
+  <tr>
+    <td><strong style="font-weight: 800; color: #284B7E;">  Transparency in Team Contracts </strong> </td>
+  </tr>
+  <tr>
+    <td>&nbsp; Paul Dütting, Yingkai Li, Inbal Talgam-Cohen, Jinzhao Wu</td>
+  </tr>
+  <tr>
+  <td>&nbsp; Manuscript </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong style="font-weight: 800; color: #284B7E;">  The Near-Optimality of Two-Part Tariffs for Nonlinear Pricing </strong> </td>
+  </tr>
+  <tr>
+    <td>&nbsp; Dirk Bergemann, Yang Cai, Jinzhao Wu, Konstantin Zabarnyi</td>
+  </tr>
+  <tr>
+  <td>&nbsp; Manuscript </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -20,7 +50,7 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
     <td>&nbsp; Yuan Deng, Jieming Mao, Balasubramanian Sivan, Kangning Wang, Jinzhao Wu</td>
   </tr>
   <tr>
-  <td>&nbsp; Manuscript </td>
+  <td>&nbsp; EC 2025  [<a href="https://arxiv.org/pdf/2502.13122">arxiv</a>] </td>
   </tr>
 </table>
 
@@ -124,7 +154,7 @@ During my undergrad, I worked on <strong>online algorithms</strong>. Recently, I
 
 <table>
   <tr>
-    <td><strong style="font-weight: 800; color: #284B7E;">Random order vertex arrival contention resolution schemes for matching, with applications</strong></td>
+    <td><strong style="font-weight: 800; color: #284B7E;">Random Order Vertex Arrival Contention Resolution Schemes for Matching, with Applications</strong></td>
   </tr>
   <tr>
     <td>&nbsp; Hu Fu, Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu, Qianfan Zhang</td>
